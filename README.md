@@ -3,4 +3,4 @@
 - 👨‍💻 Atualente ingressei na faculdade de análise e desenvolvimento de sistema da fatec junto a isso concilio o curso de python full stack da EBAC.
 - 👀 Eu estou procurando por oportunidades no mercado de desenvolvedor para ontem.
 - 🌱 Estou todos os dias aprendendo mais através de cursos.
-- 📫 Sequiserem meu contato via e-mail: gabriel.m.s2100@gmail.com
+- 📫 Meu contato via e-mail: gabriel.m.s2100@gmail.com
