@@ -1,6 +1,83 @@
-- 👋 Ola Eu sou o Grabriel Mendes Santos.
-- 👷‍♂️ atuo hoje como técnico de manutencão predial, realizo instalações e manutenções de redes internas, automação, câmeras, interfones, antenas e alarmes.
-- 👨‍💻 Atualente ingressei na faculdade de análise e desenvolvimento de sistema da fatec junto a isso concilio o curso de python full stack da EBAC.
-- 👀 Eu estou procurando por oportunidades no mercado de desenvolvedor para ontem.
-- 🌱 Estou todos os dias aprendendo mais através de cursos.
-- 📫 Meu contato via e-mail: gabriel.m.s2100@gmail.com
+# 👩🏻‍💻 Gabriel Mendes Santos
+
+**`Desenvolvedor Front-End`**
+
+Me chamo Gabriel Mendes Santos, tenho 25 anos e sou natural da Baixada Santista. Concluí o ensino técnico em Informática para Internet pela ETEC em 2017 e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC. Além disso, estou me especializando em Desenvolvimento Full Stack pela EBAC. Sou apaixonado por tecnologia e automação, tendo experiência com automação predial. Compartilho meu aprendizado e projetos enquanto busco crescer na área de desenvolvimento de software. 🚀".
+
+<p align="left">
+    <a href="https://github.com/gabrieMS21?tab=following">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/gabrieMS21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gabrieMS21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieMS21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
