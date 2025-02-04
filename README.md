@@ -68,7 +68,7 @@ Me chamo Gabriel Mendes Santos, tenho 25 anos e sou natural da Baixada Santista.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabrieMS21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -76,7 +76,7 @@ Me chamo Gabriel Mendes Santos, tenho 25 anos e sou natural da Baixada Santista.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieMS21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
