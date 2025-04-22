@@ -1,4 +1,4 @@
-# 🧑‍💻 Gabriel Mendes Santos
+# 👨🏽‍💻 Gabriel Mendes Santos
 **`Desenvolvedor Full-Stack JR` **
 <img 
     align="center" 
