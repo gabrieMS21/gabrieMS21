@@ -26,7 +26,6 @@ Me chamo Gabriel Mendes Santos, tenho 25 anos e sou natural da Baixada Santista.
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
@@ -90,3 +89,10 @@ Me chamo Gabriel Mendes Santos, tenho 25 anos e sou natural da Baixada Santista.
   />
 
 </p>
+
+
+<br/>
+
+
+### Oque eu Ouço
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gabrielms211)
