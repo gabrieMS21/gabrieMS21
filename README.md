@@ -72,7 +72,7 @@ Me chamo Gabriel Mendes Santos, tenho 25 anos e sou natural da Baixada Santista.
 
 ### 📊 Estatísticas
 
-<p>
+<p width="100%">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -90,9 +90,17 @@ Me chamo Gabriel Mendes Santos, tenho 25 anos e sou natural da Baixada Santista.
 
 </p>
 
-
+<br/>
 <br/>
 
+<p align="center">🔊 OQUE OUÇO!</p>
 
-### Oque eu Ouço
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gabrielms211)
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/gabrielms211">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gabrielms211&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
